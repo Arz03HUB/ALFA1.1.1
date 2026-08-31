@@ -5,6 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>alfa_pr_1.clase04.while_ciclo</StartupObject>
   </PropertyGroup>
 
 </Project>
