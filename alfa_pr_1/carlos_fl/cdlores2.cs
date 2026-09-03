@@ -13,7 +13,7 @@ namespace alfa_pr_1.carlos_fl
             Console.WriteLine("Ingrese el valor para num2");
             int dos = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("la suma es :" + uno +" " + dos);
+            Console.WriteLine("la suma es :" + uno + dos);
         }
     }
 }
