@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ProgramacionII.Guia04.Ej14_EST10</StartupObject>
+    <StartupObject>ProgramacionII.Guia04.Ej20_EST10</StartupObject>
   </PropertyGroup>
 
 </Project>
